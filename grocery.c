@@ -1,4 +1,4 @@
-//Eashan Yasinda Samaranayake Amugoda Kankanamge Don Grocery Store Database 12/16/2020
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
